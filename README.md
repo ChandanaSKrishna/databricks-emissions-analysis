@@ -29,9 +29,9 @@ Emissions_Data_2023.csv
 ## Dashboard
 [View the published Databricks dashboard](https://dbc-cb089155-012c.cloud.databricks.com/dashboardsv3/01f1d1094ef616a88697d8995413fcb2/published?o=7474654591637622)
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-![United States Emissions Dashboard](Dashboard.png)
+![United States Emissions Dashboard](Screenshots/Dashboard.png)
 
 ## Key Insights
 - Emissions Concentration: The top 10 states collectively account for 50.87% of total US emissions, highlighting the concentration of emissions across major contributing states.
