@@ -30,4 +30,14 @@ Emissions_Data_2023.csv
 [View the published Databricks dashboard](https://dbc-cb089155-012c.cloud.databricks.com/dashboardsv3/01f1d1094ef616a88697d8995413fcb2/published?o=7474654591637622)
 
 ## Key Insights
-Add the actual findings and metrics from your analysis here.
+- Emissions Concentration: The top 10 states collectively account for 50.87% of total US emissions, highlighting the concentration of emissions across major contributing states.
+
+- State-Level Contributions: Texas represents approximately 20.63% of the emissions shown in the state breakdown, followed by Florida (16.47%) and Ohio (9.71%).
+
+- Highest-Emitting Counties: Maricopa County, AZ (9.81 million tons), Harris County, TX (9.68 million tons), and Cook County, IL (8.11 million tons) rank among the highest-emitting counties in the dashboard.
+
+- Geographic Distribution: The emissions map reveals variations across locations throughout the United States, helping identify potential emission hotspots for further investigation.
+
+- Population vs. Per-Capita Emissions: The scatter plot highlights differences in emissions per person across locations, suggesting that population size alone may not explain variations in per-capita emissions.
+
+- Data-Driven Decision-Making: Combining geographic, state-level, county-level, and population-based visualizations helps stakeholders identify priority areas for environmental monitoring and emissions-reduction initiatives.
